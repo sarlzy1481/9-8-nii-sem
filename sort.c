@@ -34,7 +34,7 @@ void insertion_sort(int a[], int n)
 	 * n     нь хүснэгтэд байгаа утгуудын тоо
 	 ***************************************************/
 
-}
+
 
 void selection_sort(int a[], int n)
 {
